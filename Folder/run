@@ -1,0 +1,3 @@
+#!/bin/bash
+./general-pc > res
+gnuplot tsacd.plot
